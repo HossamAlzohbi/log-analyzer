@@ -1,0 +1,1 @@
+"""Vakt: en lokal sikkerhetsassistent."""
